@@ -1,3 +1,8 @@
+# USER MANAGEMENT SYSTEM
+
+![UI1](https://user-images.githubusercontent.com/42388976/147780430-86cb0e1b-7f0e-4449-81f8-510b0de87ab2.PNG)
+![UI2](https://user-images.githubusercontent.com/42388976/147780449-b413395d-8a21-49c6-98ce-f7d07483ac40.PNG)
+
 ## Technology Stack Used
 1. Front-End - Angular   (IDE- Visual Studio Code)
 2. Back-End - Java based(SpringBoot)  (IDE- STS)
