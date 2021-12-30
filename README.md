@@ -43,8 +43,7 @@
 3. show tables;
 4. select * from user;
 
+![DB1](https://user-images.githubusercontent.com/42388976/147780723-2f316e50-ecc6-4862-9286-062c911d6453.PNG)
 
-
- 
 
 
